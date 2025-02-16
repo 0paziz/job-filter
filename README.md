@@ -27,6 +27,8 @@ Users should be able to:
 
 
 
+ ![desktopView](desktopView.png) 
+![active](active.png)
 
 
 ### Links
