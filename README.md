@@ -8,11 +8,6 @@ This is a solution to the [Job listings with filtering challenge on Frontend Men
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -36,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/0paziz/Social-links-profile)
+- Solution URL: [Add solution URL here](https://github.com/0paziz/job-filter)
 - Live Site URL: [Add live site URL here](https://0paziz.github.io/Social-links-profile/)
 
 
