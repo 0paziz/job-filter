@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/0paziz/job-filter)
-- Live Site URL: [Add live site URL here](https://0paziz.github.io/Social-links-profile/)
+- Live Site URL: [Add live site URL here](https://0paziz.github.io/job-filter/)
 
 
 ## Author
