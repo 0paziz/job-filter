@@ -29,7 +29,7 @@
     <div id="job-filter" class="job-filter">
       <div class="selected-jobs">
        
-    
+       <!-- selected jobs-->
       </div>
       <div class="clear">
         <p id="clear">clear</p>
