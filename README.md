@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
- ![desktopView](desktopView.png) 
+ ![desktop view](<public/design/Frontend Mentor Job Listings.png>)
 
 
 
@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/0paziz/job-filter)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://0paziz.github.io/job-filter)
 
 
 ## Author
