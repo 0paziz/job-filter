@@ -46,7 +46,7 @@ function Jobs() {
                     <img
                       id="close"
                       className="remove-icon"
-                      src="/images/icon-remove.svg"
+                      src="./images/icon-remove.svg"
                       alt="remove"
                       onClick={() => removeFilter(filter)}
                     />
