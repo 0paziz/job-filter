@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/job-filter/static/js/main.749550f4.js",
+    "index.html": "/job-filter/index.html",
+    "main.749550f4.js.map": "/job-filter/static/js/main.749550f4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.749550f4.js"
+  ]
+}
