@@ -45,7 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aziz-portfolio](https://0paziz.github.io/Aziz-portfolio/index.html)
 - Frontend Mentor - [@0paziz](https://www.frontendmentor.io/profile/@0paziz)
 - Linkedin - [abdiaziz-omar](https://www.linkedin.com/in/abdiaziz-omar-876b06256/)
 
